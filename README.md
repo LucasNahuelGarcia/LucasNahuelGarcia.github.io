@@ -7,22 +7,22 @@
 
 ## Projects
 ### Procedural Land Generation
-[Project]((https://github.com/LucasNahuelGarcia/Unity-Generators))
+[Project]((https://github.com/LucasNahuelGarcia/Unity-Generators)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJx2vfQpU4o?si=iIbbIqX5XkDb5rol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Untouchable Juan
-[Project](https://github.com/LucasNahuelGarcia/UntouchableJuan))
+[Project](https://github.com/LucasNahuelGarcia/UntouchableJuan)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/alfp23qak38?si=E63Qh_AHR5ZgrINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Procedural Ocean Simulation
-[Project](https://github.com/LucasNahuelGarcia/URPOceanShaders))
+[Project](https://github.com/LucasNahuelGarcia/URPOceanShaders)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ax5wGTbubAw?si=RI39P3xGUqkkLSIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Procedural PlanetGeneration
-[Project](https://github.com/LucasNahuelGarcia/Unity-Generators))
+[Project](https://github.com/LucasNahuelGarcia/Unity-Generators)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
