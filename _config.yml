@@ -1,3 +1,8 @@
 title: Lucas Garcia Portfolio
-theme: jekyll-theme-minimal
 logo: Assets/Images/profile.png
+show_downloads: "true"
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme
+
+color-scheme: "dark"
