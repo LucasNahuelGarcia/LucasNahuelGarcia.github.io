@@ -61,7 +61,7 @@ When the player clicks on the scene, the game casts a ray from the camera, deter
 ### [Procedural Ocean Simulation](https://github.com/LucasNahuelGarcia/URPOceanShaders)
 A URP Shader that uses displacement to emulate ocean behaviour using Gerstner-Waves. 
 
-
+<hr>
 <br><br>
 
 ## Work Experience
