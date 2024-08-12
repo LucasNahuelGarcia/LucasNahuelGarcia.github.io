@@ -1,6 +1,2 @@
 title: Lucas Garcia Portfolio
-remote_theme: "godalming123/minimal"
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-color-scheme: "dark"
+theme: jekyll-theme-minimal
