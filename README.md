@@ -9,6 +9,7 @@
 
 ### LADA (Las Aventuras de Arturin)
 I joined this project to further its development, primarily serving as a gameplay programmer. Here are some of the contributions I made:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sAwMjHPcqTo?si=qLePxH1pQp4msxHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #### Inventory System
 An inventory system with item combinations and the ability to drag items outside of the inventory to an "active item zone". This functionality also enables interaction with objects in the scene.
@@ -16,6 +17,10 @@ An inventory system with item combinations and the ability to drag items outside
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BCZ6TsmlzEY?si=d1yqyGT-totU0XFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Interaction System
 A system that enables players to interact with specific objects in the scene, triggering conversations or various events as needed. This design offers flexibility in how interactions and events are managed.
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5X6_3oU_JM?si=gt5DoXTkYw8Y2QC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Movement System
+I had to rework the previously implemented third-person controller, as it was not functioning properly. Additionally, I added several functionalities, including jumping, switching between running and walking and dynamic sound effects based on the ground type, among other improvements.
 
 
 <br><br>
