@@ -6,6 +6,12 @@
 
 
 ## Projects
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### [Procedural PlanetGeneration](https://github.com/LucasNahuelGarcia/Unity-Generators)
+A procedural planet generator that uses Perlin noise and marching cubes to generate meshes.
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJx2vfQpU4o?si=iIbbIqX5XkDb5rol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Land Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
 A chunk-based terrain system with GPU-instanced grass.
@@ -21,8 +27,6 @@ The grass is based on the billboarding technique and is GPU-instanced on the ter
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ax5wGTbubAw?si=RI39P3xGUqkkLSIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Ocean Simulation](https://github.com/LucasNahuelGarcia/URPOceanShaders)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### [Procedural PlanetGeneration](https://github.com/LucasNahuelGarcia/Unity-Generators)
 
 
 ## Work Experience
