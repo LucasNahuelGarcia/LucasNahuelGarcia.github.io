@@ -10,6 +10,7 @@
 ### LADA (Las Aventuras de Arturin)
 I joined this project to further its development, primarily serving as a gameplay programmer. Here are some of the contributions I made:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wlupngs4lzk?si=KlkIpI37rfFjhvqC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #### Map Scene Navigation System
 I had to create from scratch a system that allows the player to move between different scenes by interacting with a map. The next scene is preloaded while the animation of the character running through the map is active, and it is activated once the animation finishes. The system also provides options to set the sprite and sound effects for the traveler animation, allowing for customization and future flexibility.
 <br>
