@@ -4,7 +4,7 @@
 ---
 <br>
 
-## Projects
+## Work Projects
 
 
 ### LADA (Las Aventuras de Arturin)
@@ -29,7 +29,7 @@ A system that enables players to interact with specific objects in the scene, tr
 I had to rework the previously implemented third-person controller, as it was not functioning properly. Additionally, I added several functionalities, including jumping, switching between running and walking and dynamic sound effects based on the ground type, among other improvements.
 
 
-<br>
+## Personal Projects
 
 ### [Procedural Planet Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
