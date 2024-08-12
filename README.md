@@ -1,6 +1,6 @@
 # Unity Game Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Unity, C#, C++, URP, Blender, Gimp, Reaper
 
 
 
