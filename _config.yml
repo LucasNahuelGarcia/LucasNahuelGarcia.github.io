@@ -1,5 +1,5 @@
 title: Lucas Garcia Portfolio
-logo: Assets/Images/profile.png
+#logo: Assets/Images/profile.png
 show_downloads: "true"
 theme: jekyll-theme-minimal
 
