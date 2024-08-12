@@ -15,7 +15,6 @@ I joined this project to further its development, primarily serving as a gamepla
 
 \
 \
-\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Planet Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
@@ -24,7 +23,6 @@ Using the marching cubes algorithm, it creates a spherical object that resembles
 The color was then customized using a shader based on the face direction.
 The atmosphere was generated using a sphere with a custom shader that emulates light refraction.
 
-\
 \
 \
 
@@ -37,7 +35,6 @@ The grass is based on the billboarding technique and is GPU-instanced on the ter
 
 \
 \
-\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/alfp23qak38?si=E63Qh_AHR5ZgrINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Untouchable Juan](https://github.com/LucasNahuelGarcia/UntouchableJuan)
@@ -48,12 +45,10 @@ When the player clicks on the scene, the game casts a ray from the camera, deter
 
 \
 \
-\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ax5wGTbubAw?si=RI39P3xGUqkkLSIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Ocean Simulation](https://github.com/LucasNahuelGarcia/URPOceanShaders)
 
-\
 \
 \
 
