@@ -28,7 +28,7 @@ A system that enables players to interact with specific objects in the scene, tr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V5X6_3oU_JM?si=gt5DoXTkYw8Y2QC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 I had to rework the previously implemented third-person controller, as it was not functioning properly. Additionally, I added several functionalities, including jumping, switching between running and walking and dynamic sound effects based on the ground type, among other improvements.
 
-
+---
 ## Personal Projects
 
 ### [Procedural Planet Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
