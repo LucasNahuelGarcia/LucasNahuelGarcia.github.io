@@ -16,7 +16,7 @@ I joined this project to further its development. Here are some of the contribut
 \
 \
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### [Procedural PlanetGeneration](https://github.com/LucasNahuelGarcia/Unity-Generators)
+### [Procedural Planet Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
 A procedural planet generator that uses Perlin noise and marching cubes to generate meshes.
 Using the marching cubes algorithm, it creates a spherical object that resembles a planet. The surface is modified by adjusting the value function for each point.
 The color was then customized using a shader based on the face direction.
