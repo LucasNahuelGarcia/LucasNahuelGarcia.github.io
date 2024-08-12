@@ -1,7 +1,7 @@
 title: Lucas Garcia Portfolio
 logo: Assets/Images/profile.png
 show_downloads: "true"
-remote_theme: "murraco/jekyll-theme-minimal-resume"
+remote_theme: "sujaykundu777/devlopr-jekyll"
 plugins:
 - jekyll-remote-theme
 
