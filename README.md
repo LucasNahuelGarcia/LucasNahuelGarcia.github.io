@@ -10,12 +10,14 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural PlanetGeneration](https://github.com/LucasNahuelGarcia/Unity-Generators)
 A procedural planet generator that uses Perlin noise and marching cubes to generate meshes.
-
+Using the marching cubes algorithm, it creates a spherical object that resembles a planet. The surface is modified by adjusting the value function for each point.
+The color was then customized using a shader based on the face direction.
+The atmosphere was generated using a sphere with a custom shader that emulates light refraction.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJx2vfQpU4o?si=iIbbIqX5XkDb5rol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Land Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
 A chunk-based terrain system with GPU-instanced grass.
-It aims to generate an infinitely explorable world using various layers of Perlin noise as a base to create large and small land features. The system generates the terrain data and then creates a mesh of a configurable resolution that mimics that noise.
+It aims to generate an infinitely explorable world using various layers of Perlin noise as a base to create large and small land features. The system generates the terrain data using a compute shader and then creates a mesh of a configurable resolution that mimics that noise.
 This system works with multiple terrain generators that function in conjunction to move with the player, creating a seamless experience.
 The grass is based on the billboarding technique and is GPU-instanced on the terrain.
 
