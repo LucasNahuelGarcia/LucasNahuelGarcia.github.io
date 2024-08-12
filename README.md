@@ -2,7 +2,8 @@
 
 #### Technical Skills: Unity, C#, C++, URP, Blender, Gimp, Reaper
 
-
+\
+\
 
 
 ## Projects
