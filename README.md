@@ -62,7 +62,6 @@ When the player clicks on the scene, the game casts a ray from the camera, deter
 A URP Shader that uses displacement to emulate ocean behaviour using Gerstner-Waves. 
 
 <hr>
-<br><br>
 
 ## Work Experience
 **Unity 3D Developer @ Youvi Systems (_June 2023 - February 2024_)**
@@ -83,6 +82,7 @@ A URP Shader that uses displacement to emulate ocean behaviour using Gerstner-Wa
 - Constructed a backend with securely stored passwords, using the latest best practices for password handling.
 - Scraped thousands of entries from an outdated and poorly structured Cobol database into a new MongoDB one, using a Node.js script.
 
+<hr>
 
 ## Education
 - Licenciatura en Ciencias de la Computación | Universidad Nacional del Sur (_Present_)
