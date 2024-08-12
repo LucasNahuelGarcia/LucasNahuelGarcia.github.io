@@ -8,7 +8,10 @@
 ## Projects
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJx2vfQpU4o?si=iIbbIqX5XkDb5rol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Land Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
-
+A chunk-based terrain system with GPU-instanced grass.
+It aims to generate an infinitely explorable world using various layers of Perlin noise as a base to create large and small land features. The system generates the terrain data and then creates a mesh of a configurable resolution that mimics that noise.
+This system works with multiple terrain generators that function in conjunction to move with the player, creating a seamless experience.
+The grass is based on the billboarding technique and is GPU-instanced on the terrain.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/alfp23qak38?si=E63Qh_AHR5ZgrINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
