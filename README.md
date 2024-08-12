@@ -18,24 +18,21 @@ I had to create from scratch a system that allows the player to move between dif
 <br>
 #### Inventory System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sAwMjHPcqTo?si=qLePxH1pQp4msxHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#### Inventory System
 An inventory system with item combinations and the ability to drag items outside of the inventory to an "active item zone". This functionality also enables interaction with objects in the scene.
 <br>
 #### Interaction System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BCZ6TsmlzEY?si=d1yqyGT-totU0XFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#### Interaction System
 A system that enables players to interact with specific objects in the scene, triggering conversations or various events as needed. This design offers flexibility in how interactions and events are managed.
 <br>
 #### Movement System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V5X6_3oU_JM?si=gt5DoXTkYw8Y2QC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#### Movement System
 I had to rework the previously implemented third-person controller, as it was not functioning properly. Additionally, I added several functionalities, including jumping, switching between running and walking and dynamic sound effects based on the ground type, among other improvements.
 
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Planet Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T0yJ5YOxNbA?si=gyvSiZRQr8w9s1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 A procedural planet generator that uses Perlin noise and marching cubes to generate meshes.
 Using the marching cubes algorithm, it creates a spherical object that resembles a planet. The surface is modified by adjusting the value function for each point.
 The color was then customized using a shader based on the face direction.
@@ -43,8 +40,8 @@ The atmosphere was generated using a sphere with a custom shader that emulates l
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wJx2vfQpU4o?si=iIbbIqX5XkDb5rol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Land Generation](https://github.com/LucasNahuelGarcia/Unity-Generators)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJx2vfQpU4o?si=iIbbIqX5XkDb5rol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 A chunk-based terrain system with GPU-instanced grass.
 It aims to generate an infinitely explorable world using various layers of Perlin noise as a base to create large and small land features. The system generates the terrain data using a compute shader and then creates a mesh of a configurable resolution that mimics that noise.
 This system works with multiple terrain generators that function in conjunction to move with the player, creating a seamless experience.
@@ -52,8 +49,8 @@ The grass is based on the billboarding technique and is GPU-instanced on the ter
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/alfp23qak38?si=E63Qh_AHR5ZgrINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Untouchable Juan](https://github.com/LucasNahuelGarcia/UntouchableJuan)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/alfp23qak38?si=E63Qh_AHR5ZgrINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 A simple fighting game created to test inverse kinematic functionality in Unity.
 The game focuses on simulating realistic limb movements in response to player input.
 
@@ -61,8 +58,8 @@ When the player clicks on the scene, the game casts a ray from the camera, deter
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ax5wGTbubAw?si=RI39P3xGUqkkLSIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### [Procedural Ocean Simulation](https://github.com/LucasNahuelGarcia/URPOceanShaders)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ax5wGTbubAw?si=RI39P3xGUqkkLSIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 A URP Shader that uses displacement to emulate ocean behaviour using Gerstner-Waves. 
 
 ---
