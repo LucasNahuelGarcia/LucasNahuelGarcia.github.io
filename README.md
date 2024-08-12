@@ -87,5 +87,5 @@ A URP Shader that uses displacement to emulate ocean behaviour using Gerstner-Wa
 ---
 
 ## Education
-Licenciatura en Ciencias de la Computación | Universidad Nacional del Sur (_Present_)
-Computer Technician	| Escuela Industrial “José Menéndez” (_December 2018_)
+- Licenciatura en Ciencias de la Computación @ Universidad Nacional del Sur (_Present_)
+- Computer IT Technician	@ Escuela Industrial “José Menéndez” (_December 2018_)
