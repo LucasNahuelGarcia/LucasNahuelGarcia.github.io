@@ -1,7 +1,9 @@
 # Unity Game Developer
 
-#### Technical Skills: Unity, C#, C++, URP, Blender, Gimp, Reaper\
+#### Technical Skills: Unity, C#, C++, URP, Blender, Gimp, Reaper
+
 <br>
+
 ## Projects
 
 
