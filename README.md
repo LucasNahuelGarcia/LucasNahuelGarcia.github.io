@@ -12,7 +12,10 @@ I joined this project to further its development, primarily serving as a gamepla
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sAwMjHPcqTo?si=qLePxH1pQp4msxHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #### Inventory System
 An inventory system with item combinations and the ability to drag items outside of the inventory to an active element zone. This functionality also enables interaction with objects in the scene.
-
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCZ6TsmlzEY?si=d1yqyGT-totU0XFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Interaction System
+A system that enables players to interact with specific objects in the scene, triggering conversations or various events as needed. This design offers flexibility in how interactions and events are managed.
 
 
 <br><br>
